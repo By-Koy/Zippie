@@ -1,0 +1,7 @@
+[zip]
+archive = "zip @O @I"
+extract = "unzip @I"
+
+[tar]
+archive = "wakka wakka"
+extract = "ehh ehh"
